@@ -13,8 +13,6 @@ author = 'Oskar'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['rst2pdf.pdfbuilder']
-
 templates_path = ['_templates']
 exclude_patterns = []
 
