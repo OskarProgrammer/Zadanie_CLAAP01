@@ -13,6 +13,11 @@ author = 'Oskar'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
+<<<<<<< HEAD
+=======
+extensions = []
+
+>>>>>>> 8ce44b834968a02266ab0a708141f66272e08c55
 templates_path = ['_templates']
 exclude_patterns = []
 
@@ -24,5 +29,3 @@ language = 'pl'
 html_theme = 'alabaster'
 html_static_path = ['_static']
 html_title = "Zadanie CLAAP01"
-
-pdf_documents = [('index', u'DokumentacjaPDF', u'DokumentacjaPDF', u'AuthorName'),]
